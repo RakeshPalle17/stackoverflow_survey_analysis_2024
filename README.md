@@ -1,2 +1,2 @@
-### Insights from the 2024 Stack Overflow Developer Survey: A Deep Dive into Developer Trends
+#### Insights from the 2024 Stack Overflow Developer Survey: A Deep Dive into Developer Trends
 The Stack Overflow Developer Survey 2024 offers invaluable insights into the evolving landscape of software development. This year’s survey draws from a diverse pool of developers, showcasing trends, skills, and industry concerns shaping the profession today. In this project, we analyze key trends based on the responses.
